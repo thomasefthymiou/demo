@@ -3,3 +3,5 @@ log/*
 web/uploads/*
 web/*Plugin/*
 web/sf
+/nbproject/private/
+/nbproject/
